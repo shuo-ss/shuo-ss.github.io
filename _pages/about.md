@@ -18,4 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year Ph.D. student in the Department of Industrial Engineering and Operations Research at UC Berkeley, where I am fortunate to be advised by Professors Zuo-Jun Max Shen and Rajan Udwani.
+
+
+I am a fifth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at UC Berkeley, advised by Professors Zuo-Jun Max Shen and Rajan Udwani.
