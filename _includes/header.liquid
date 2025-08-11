@@ -117,6 +117,18 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+          {% if site.cv_pdf %}
+            <!-- CV PDF Link -->
+            {% comment %}
+              code gotten from https://github.com/alshedivat/al-folio/issues/895
+            {% endcomment %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ site.cv_pdf | prepend: 'assets/pdf/' | relative_url }}" target="_blank" rel="noopener noreferrer">
+                cv
+                <span class="sr-only">(current)</span>
+              </a>
+            </li>
+          {% endif %}
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
