@@ -17,6 +17,13 @@ ninja.data = [{
           window.open("mailto:%73%68%75%6F %73%75%6E@%62%65%72%6B%65%6C%65%79.%65%64%75", "_blank");
         },
       },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=BHRMjkkAAAAJ", "_blank");
+        },
+      },{
         id: 'social-cv_pdf',
         title: 'Cv_pdf',
         section: 'Socials',
