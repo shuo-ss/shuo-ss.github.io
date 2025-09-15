@@ -21,3 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 
 I am a fifth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at UC Berkeley, advised by Professors <a href='https://zj-maxshen.github.io'>Zuo-Jun Max Shen</a> and <a href='https://rudwani.ieor.berkeley.edu'>Rajan Udwani</a>. Before that, I received my B.E. in Industrial Engineering from Tsinghua University in China in 2021. 
+
+<b>I am on the 2025-2026 academic job market!</b>
