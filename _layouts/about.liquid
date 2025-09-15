@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
-<div class="post" style="font-size: 130%;">
+<style>
+  /* Double everything inside .post */
+  .post { font-size: 130%; }
+
+  /* Make headings scale with the parent instead of root */
+  .post h1 { font-size: 2em; line-height: 1.2; }
+  .post h2 { font-size: 1.75em; }
+  .post h3 { font-size: 1.5em; }
+  .post h4 { font-size: 1.25em; }
+  .post h5 { font-size: 1.1em; }
+  .post h6 { font-size: 1em; }
+</style>
+<div class="post">
   <header class="post-header">
     <h1 class="post-title">
       {% if site.title == 'blank' %}
