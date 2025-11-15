@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a fifth-year Ph.D. candidate in the Department of Industrial Engineering and Operations Research (IEOR) at UC Berkeley, advised by Professors <a href='https://zj-maxshen.github.io'>Zuo-Jun Max Shen</a> and <a href='https://rudwani.ieor.berkeley.edu'>Rajan Udwani</a>. Before that, I received my B.E. in Industrial Engineering from Tsinghua University in China in 2021. 
 
-My research focuses on modeling and algorithm design in supply chain management and revenue management, using optimization and machine learning. I am interested in applications to retail and platform operations such as assortment optimization, inventory management, and pricing.
+My research centers on modeling and algorithm design for revenue management and supply chain management. I combine optimization and machine learning methods to advance both the theoretical foundations and practical applications of these problems, supported by close industry collaboration. My broader interests span retail and platform operations, with applications in problems such as assortment optimization, inventory management, and pricing. 
 
 <b>I am on the 2025-2026 academic job market!</b>
 
