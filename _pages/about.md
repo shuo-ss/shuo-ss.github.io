@@ -17,7 +17,7 @@ news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor in the Department of Industrial & Systems Engineering at the University of Wisconsin–Madison. I joined the department in July 2026 after receiving my Ph.D. in Industrial Engineering and Operations Research from UC Berkeley, advised by <a href='https://zj-maxshen.github.io'>Zuo-Jun Max Shen</a> and <a href='https://rudwani.ieor.berkeley.edu'>Rajan Udwani</a>. I received my B.E. in Industrial Engineering from Tsinghua University in 2021.
+I am an Assistant Professor in the Department of Industrial & Systems Engineering at the University of Wisconsin–Madison. I am also affiliated with UW–Madison’s <a href='https://dsi.wisc.edu/'>Data Science Institute (DSI)</a> and <a href='https://rise.wisc.edu/rise-ai/'>RISE-AI initiative</a>. I joined the department in July 2026 after receiving my Ph.D. in Industrial Engineering and Operations Research from UC Berkeley, advised by <a href='https://zj-maxshen.github.io'>Zuo-Jun Max Shen</a> and <a href='https://rudwani.ieor.berkeley.edu'>Rajan Udwani</a>. I received my B.E. in Industrial Engineering from Tsinghua University in 2021.
 
 My research lies at the intersection of operations, algorithms, and data, with applications in supply chain management and retail and platform operations. I combine optimization and machine learning methods to advance both theory and practice in these areas, drawing on close collaboration with industry.
 
