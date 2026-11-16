@@ -24,13 +24,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=BHRMjkkAAAAJ", "_blank");
         },
       },{
-        id: 'social-cv_pdf',
-        title: 'Cv_pdf',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
