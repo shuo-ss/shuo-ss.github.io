@@ -1,5 +1,12 @@
 ---
 ---
+@article{sun2026uniform,
+  title           = {Dynamic Assortment Optimization Under Arbitrary Demand Distributions: The Uniform Price Setting},
+  author_text     = {With Rajan Udwani},
+  selected        = {true},
+  arxiv           = {2611.18421},
+  abstract        = {We study the joint optimization of assortment and inventory when products are identically priced and the total demand (number of customers) is uncertain. A seller chooses initial inventories before customers arrive and every customer buys her preferred product among those still in stock according to a choice model known to the seller. The objective is to maximize the (expected) total sales, subject to a capacity constraint. We give a (1 − 1/e)<sup>2</sup>-approximation under any ranking-based choice model and a (1 − 1/e − ε)-approximation under the Markov chain choice model, where ε is a tunable parameter that trades off runtime with approximation guarantee. Our guarantees hold for arbitrary demand distributions and do not require the ubiquitous Increasing Failure Rate (IFR) assumption. In fact, our results also improve on the state-of-the-art approximations for IFR demand distributions. Key to our results is the discovery of hidden submodularity in these problems and the development of efficient procedures to evaluate (or approximate) the objective values. Specifically, we uncover a novel connection to online bipartite matching (for ranking-based models) and use stochastic coupling arguments (for the Markov chain choice model) to reduce the problems to instances of constrained submodular maximization. This opens the door to applying the vast algorithmic machinery for submodular maximization to our problem setting, leading, for example, to natural generalizations beyond cardinality constraint where no approximation results were previously known.}
+}
 @article{sun2025comp,
   title           = {A Markovian Approach for Cross-Category Complementarity in Choice Modeling},
   author = {With Omar El Housni and Rajan Udwani},
@@ -12,6 +19,8 @@
   title           = {Online Stochastic Allocation with Increasing Returns},
   author_text     = {With Yunduan Lin},
   selected        = {true},
+  arxiv           = {2609.34121},
+  abstract        = {We study online allocation with increasing returns, where an uncertain number of customers arrive sequentially and can be irrevocably assigned to any product with remaining capacity. Each assignment earns a base reward plus a bonus that is nondecreasing in the number of previous assignments to the same product. Prior work has focused primarily on fixed or diminishing returns. Under increasing returns, the central challenge is that concentrating assignments can unlock large future rewards, while a different product may be preferable if arrivals stop early. We show that classical approaches, including greedy and natural LP-based rounding algorithms, can perform arbitrarily poorly, even with homogeneous bonuses. We evaluate performance through competitive ratios relative to the hindsight offline optimum. For homogeneous bonuses, we establish a tight competitive ratio of 1/2. For arbitrary heterogeneous bonuses, however, no online algorithm can guarantee a competitive ratio greater than 1/m, where m is the number of products. By imposing discrete concavity on the bonus functions, we limit the concentration of rewards in later assignments and restore constant guarantees. Under this structure, we develop a re-solving framework that repeatedly selects a planning horizon, constructs a feasible allocation plan from the current state, and executes its assignments in a specific order. For arbitrary arrival distributions, we design distribution-oblivious deterministic and randomized algorithms with competitive ratios of 0.2537 and 0.3864, respectively. For known increasing-failure-rate (IFR) arrival distributions, we exploit distributional information to obtain a deterministic 1/2-competitive algorithm.},
   note            = {Accepted at <em>WINE 2026</em>}
 }
 @article{sun2025unified,

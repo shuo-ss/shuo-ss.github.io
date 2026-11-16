@@ -23,6 +23,5 @@ My research lies at the intersection of operations, algorithms, and data, with a
 
 <p class="contact-links">
   <a href="mailto:{{ site.data.socials.email }}">Email</a> &middot;
-  <a href="{{ site.cv_pdf | prepend: '/assets/pdf/' | relative_url }}">CV</a> &middot;
   <a href="https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}">Google Scholar</a>
 </p>
